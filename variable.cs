@@ -24,6 +24,23 @@ namespace FirstApp
             
             float number = 1.4f;
             decimal number = 1.2;
+            
+            // Primitive Types
+            /*
+               Integeral { byte, short, int , long}    
+               Real Number { float, double, decimal}
+               Charactor { char}
+               Boolean {bool}
+            */
+            
+            
+            // Non-Primitive Types
+            /*
+            String
+            Array
+            Enum
+            Class
+            */
 
         }
     }
